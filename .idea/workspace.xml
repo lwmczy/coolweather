@@ -99,22 +99,22 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/activity/WeatherActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="93" column="67" selection-start-line="93" selection-start-column="49" selection-end-line="93" selection-end-column="67" />
+              <caret line="187" column="29" selection-start-line="187" selection-start-column="29" selection-end-line="187" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4950#5135#0" expanded="true" />
-                <element signature="e#5134#5135#0" expanded="true" />
-                <element signature="e#5270#5449#0" expanded="true" />
-                <element signature="e#5448#5449#0" expanded="true" />
+                <element signature="e#5006#5191#0" expanded="true" />
+                <element signature="e#5190#5191#0" expanded="true" />
+                <element signature="e#5326#5505#0" expanded="true" />
+                <element signature="e#5504#5505#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ChooseAreaActivity.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ChooseAreaActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/activity/ChooseAreaActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4899329">
+            <state vertical-scroll-proportion="0.0">
               <caret line="260" column="35" selection-start-line="260" selection-start-column="35" selection-end-line="260" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -125,6 +125,36 @@
                 <element signature="e#7541#7542#0" expanded="true" />
                 <element signature="e#7709#8014#0" expanded="true" />
                 <element signature="e#8013#8014#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AutoUpdateService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/service/AutoUpdateService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="38" column="62" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#657#658#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#791#918#0" expanded="true" />
+                <element signature="e#917#918#0" expanded="true" />
+                <element signature="e#2087#2088#0" expanded="true" />
+                <element signature="e#2138#2139#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AutoUpdateReceiver.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/receiver/AutoUpdateReceiver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -143,67 +173,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.8724832">
+              <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
               <folding>
                 <element signature="e#469#487#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="City.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/model/City.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-              <folding>
-                <element signature="e#226#227#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-                <element signature="e#345#346#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#423#424#0" expanded="true" />
-                <element signature="e#463#464#0" expanded="true" />
-                <element signature="e#497#498#0" expanded="true" />
-                <element signature="e#528#529#0" expanded="true" />
-                <element signature="e#575#576#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#648#649#0" expanded="true" />
-                <element signature="e#681#682#0" expanded="true" />
-                <element signature="e#729#730#0" expanded="true" />
-                <element signature="e#773#774#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="County.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/model/County.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-              <folding>
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#253#254#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-                <element signature="e#313#314#0" expanded="true" />
-                <element signature="e#349#350#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#513#514#0" expanded="true" />
-                <element signature="e#546#547#0" expanded="true" />
-                <element signature="e#597#598#0" expanded="true" />
-                <element signature="e#641#642#0" expanded="true" />
-                <element signature="e#670#671#0" expanded="true" />
-                <element signature="e#699#700#0" expanded="true" />
-                <element signature="e#739#740#0" expanded="true" />
-                <element signature="e#775#776#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1784,10 +1760,12 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/util/HttpCallbackListener.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/choose_area.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/util/Utility.java" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/weather_layout.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/activity/WeatherActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/activity/ChooseAreaActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/receiver/AutoUpdateReceiver.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/service/AutoUpdateService.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/activity/WeatherActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       </list>
     </option>
   </component>
@@ -1918,6 +1896,32 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="coolweather" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CoolWeather" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coolweather" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="receiver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2358,16 +2362,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#469#487#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/weather_layout.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -2379,23 +2373,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/activity/WeatherActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="93" column="67" selection-start-line="93" selection-start-column="49" selection-end-line="93" selection-end-column="67" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4950#5135#0" expanded="true" />
-            <element signature="e#5134#5135#0" expanded="true" />
-            <element signature="e#5270#5449#0" expanded="true" />
-            <element signature="e#5448#5449#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/activity/ChooseAreaActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4899329">
+        <state vertical-scroll-proportion="0.0">
           <caret line="260" column="35" selection-start-line="260" selection-start-column="35" selection-end-line="260" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2406,6 +2386,56 @@
             <element signature="e#7541#7542#0" expanded="true" />
             <element signature="e#7709#8014#0" expanded="true" />
             <element signature="e#8013#8014#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/receiver/AutoUpdateReceiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/service/AutoUpdateService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="62" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#791#918#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
+            <element signature="e#2087#2088#0" expanded="true" />
+            <element signature="e#2138#2139#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/lwlwq/coolweather/activity/WeatherActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="187" column="29" selection-start-line="187" selection-start-column="29" selection-end-line="187" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#5006#5191#0" expanded="true" />
+            <element signature="e#5190#5191#0" expanded="true" />
+            <element signature="e#5326#5505#0" expanded="true" />
+            <element signature="e#5504#5505#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8724832">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <element signature="e#469#487#0" expanded="true" />
           </folding>
         </state>
       </provider>
